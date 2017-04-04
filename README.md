@@ -1,4 +1,7 @@
 # Antenna
+
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
 **Extensible Remote Logging for iOS**
 
 Visibility into how users interact with your app is invaluable. This information can go a long way to inform user interaction design, and improve business conversion rates. Antenna provides this crucial level of visibility in a way that captures majority usage information by default, but also allows you to tune everything according to your app's particular needs.
