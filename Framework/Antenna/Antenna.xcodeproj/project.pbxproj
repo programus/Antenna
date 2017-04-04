@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E0B3A01F1E93530C002324DA /* Antenna.h in Headers */ = {isa = PBXBuildFile; fileRef = E0B3A01D1E93530C002324DA /* Antenna.h */; };
+		E0B3A01F1E93530C002324DA /* Antenna.h in Headers */ = {isa = PBXBuildFile; fileRef = E0B3A01D1E93530C002324DA /* Antenna.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E0B3A0201E93530C002324DA /* Antenna.m in Sources */ = {isa = PBXBuildFile; fileRef = E0B3A01E1E93530C002324DA /* Antenna.m */; };
 		E0B3A0351E93532D002324DA /* AFHTTPRequestOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = E0B3A0211E93532D002324DA /* AFHTTPRequestOperation.h */; };
 		E0B3A0361E93532D002324DA /* AFHTTPRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = E0B3A0221E93532D002324DA /* AFHTTPRequestOperation.m */; };
@@ -128,9 +128,9 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0B3A01F1E93530C002324DA /* Antenna.h in Headers */,
 				E0B3A0461E93532D002324DA /* AFURLSessionManager.h in Headers */,
 				E0B3A0421E93532D002324DA /* AFURLRequestSerialization.h in Headers */,
-				E0B3A01F1E93530C002324DA /* Antenna.h in Headers */,
 				E0B3A0351E93532D002324DA /* AFHTTPRequestOperation.h in Headers */,
 				E0B3A0391E93532D002324DA /* AFHTTPSessionManager.h in Headers */,
 				E0B3A0401E93532D002324DA /* AFURLConnectionOperation.h in Headers */,
@@ -377,6 +377,7 @@
 				E0B3A01C1E9352F9002324DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
